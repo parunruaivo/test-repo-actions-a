@@ -13,5 +13,3 @@ Octo Queue **test suite** repo (GitHub Actions). Part of the four-repo interdepe
 Assign to a queue with **CI provider = GITHUB_ACTIONS** together with `test-repo-actions-b`. Set CI project workflow file to `.github/workflows/deploy.yml`.
 
 See the [oq-test-repos README](../README.md) for full setup and E2E test flow.
-
-
